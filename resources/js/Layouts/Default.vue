@@ -1,0 +1,4 @@
+<template>
+  Defualt
+  <slot />
+</template>

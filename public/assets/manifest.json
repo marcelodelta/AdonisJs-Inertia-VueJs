@@ -1,0 +1,6 @@
+{
+  "assets/app.css": "http://localhost:8080/assets/app.css",
+  "assets/app.js": "http://localhost:8080/assets/app.js",
+  "assets/ececcf907fb3f686b41d.module.wasm": "http://localhost:8080/assets/ececcf907fb3f686b41d.module.wasm",
+  "assets/86839b6c83090a46346e.module.wasm": "http://localhost:8080/assets/86839b6c83090a46346e.module.wasm"
+}
